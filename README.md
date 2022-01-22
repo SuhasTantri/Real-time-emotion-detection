@@ -36,7 +36,7 @@ Here is an image showing the confusion matrix of the model classification
 
 * [Real time Facial emotion recognition using OpenCV](https://github.com/SuhasTantri/Real-time-emotion-detection/blob/branch-1/emotion_detection.ipynb)
 
-* [Streamlit web app]()  
+* [Streamlit web app in streamlit cloud](https://share.streamlit.io/suhastantri/real-time-emotion-detection/branch-1/app.py)  
 
 * [Deployed app in Heroku]()  
 
