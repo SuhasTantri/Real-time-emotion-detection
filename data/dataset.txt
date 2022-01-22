@@ -1,0 +1,3 @@
+As the dataset is too large. It cannot be uploaded here.
+
+The link for the dataset is - https://www.kaggle.com/gauravsharma99/fer13-cleaned-dataset
