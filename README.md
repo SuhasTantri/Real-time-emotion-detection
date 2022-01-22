@@ -38,5 +38,7 @@ Here is an image showing the confusion matrix of the model classification
 
 * [Streamlit web app in streamlit cloud](https://share.streamlit.io/suhastantri/real-time-emotion-detection/branch-1/app.py)  
 
-* [Deployed app in Heroku]()  
+* [Deployed app in Heroku](https://realtime-emotion-app.herokuapp.com)
+
+* The app may take a couple of minutes to load as I am using free-tier account of Heroku and streamlit cloud and the slug size is 491 MB while the maximum limit is 500 MB. If the app does not open. Try rebooting the app and running it again. Thanks
 
