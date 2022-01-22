@@ -1,7 +1,4 @@
-# Real-time-emotion-detection
-
-
-# Real-time-facial-emotion-recognition[Deep Learning Capstone Project Almabetter]
+# Real-time-emotion-detection [Deep Learning Capstone Project Almabetter]
 
 The goal of the project is to do real time facial emotion recognition of students in a live class so that they can be monitored easily. This is done by using Deep learning algorithms and Open CV.
 
