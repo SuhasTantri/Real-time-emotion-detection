@@ -4,6 +4,9 @@ The goal of the project is to do real time facial emotion recognition of student
 
 The project was done by me and my teammate Raghavendra A Kulkarni.
 
+## MobileNet Architecture
+
+![App Screenshot]()
 
 ## Transfer Learning
 
