@@ -8,7 +8,7 @@ The project was done by me and my teammate Raghavendra A Kulkarni.
 
 ![App Screenshot](https://raw.githubusercontent.com/SuhasTantri/Real-time-emotion-detection/branch-1/media/mobile%20net%20architecture.png)
 
-* The MobileNet structure is built on depthwise separable convolutions as mentioned in the previous section except for the first layer which is a full convolution. By defining the network in such simple terms we are able to easily explore
+* The MobileNet structure is built on depthwise separable convolutions except for the first layer which is a full convolution. By defining the network in such simple terms we are able to easily explore
 network topologies to find a good network. All layers are followed by a batchnorm and ReLU nonlinearity with the exception
 of the final fully connected layer which has no nonlinearity and feeds into a softmax layer for classification. Counting depthwise and pointwise convolutions as separate layers, MobileNet has 28 layers.
 
