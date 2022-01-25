@@ -102,8 +102,7 @@ def main():
         
     elif choice=='About':
        
-        st.subheader("Realtime Face Emotion Detection Created By Suhas, Almabetter Data Science Trainee Using OpenCV, Transfer Learning MobileNet Model And Streamlit.\n The app has two functionalities. Real time emotion detection and Emotion detection of an uploaded image.\n
-                     I hope you enjoy the experience! ")
+        st.subheader("Realtime Face Emotion Detection Created By Suhas, Almabetter Data Science Trainee Using OpenCV, Transfer Learning MobileNet Model And Streamlit.\n The app has two functionalities. Real time emotion detection and Emotion detection of an uploaded image.")
 
     else:
         st.subheader("Upload image of face")
