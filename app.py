@@ -101,7 +101,9 @@ def main():
         webrtc_streamer(key="example",video_processor_factory=VideoTransformer)
         
     elif choice=='About':
-        st.subheader("Realtime Face Emotion Detection Created By Raghavendra & Suhas Almabetter Data Science Trainee Using OpenCV, Transfer Learning MobileNet Model And Streamlit")
+        st.subheader("Realtime Face Emotion Detection Created By Suhas, Almabetter Data Science Trainee Using OpenCV, Transfer Learning MobileNet Model And Streamlit.
+                     The app has two functionalities. Real time emotion detection and Emotion detection of an uploaded image.
+                     I hope you enjoy the experience!")
 
     else:
         st.subheader("Upload image of face")
